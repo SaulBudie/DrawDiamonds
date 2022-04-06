@@ -8,6 +8,13 @@
 
 <h2>How to use?</h2>
 
-<div>Download and run the python file</div>
+<div>Download or clone the repo</div>
 
-<h2>When will you get a mate?</h2>
+<div> </div>
+
+<div>Open terminal, locate to place and run it</div>
+
+<h2>Questions?</h2>
+
+<div>Dm me at https://www.reddit.com/user/budiegamez</div>
+
